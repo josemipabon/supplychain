@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-miguel-p-b362a817/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/channel/your-channel" target="_blank">
